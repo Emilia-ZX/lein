@@ -1,2 +1,2 @@
-# lein.github.com
+# lein.github.io
 example simple deface pages
