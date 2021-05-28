@@ -1,0 +1,40 @@
+body {
+
+      background-color: white;
+
+    }
+
+    .kon {
+
+      font-family: 'Sans Francisco';
+
+      font-size: 55px;
+
+      color: black;
+
+    }
+
+    .img {
+
+      padding: 8px;
+
+      margin: 8px;
+
+      max-width: 90%;
+
+      width: auto;
+
+      height: auto;
+
+    }
+
+    .kon1 {
+
+      font-family: 'Sans Francisco';
+
+      font-size: 45px;
+
+      color: #2f3640;
+
+    }
+
