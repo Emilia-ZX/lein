@@ -1,0 +1,49 @@
+html,
+    body {
+      font-style: sans-serif;
+      background-color: black;
+      background-repeat: repeat;
+      background-position: center;
+      background-size: auto;
+      margin: 0;
+      padding: 0;
+    }
+
+    .xcs {
+      font-size: 20px;
+      font-style: courier;
+      font-weight: 10px;
+
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: ;
+      color: ghostwhite;
+      text-align: center;
+    }
+
+    .text,
+    p {
+      font-size: 20px;
+      font-style: 'Amatic SA';
+      color: red;
+    }
+
+    .tox {
+      border: 3px solid red;
+      color: violet;
+    }
+
+    .vot {
+      font-style: 'Amatic SA';
+      color: red;
+    }
+
+    .vox {
+      font-style: 'Amatic SA';
+      color: ghostwhite;
+    }

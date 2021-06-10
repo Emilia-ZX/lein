@@ -1,0 +1,57 @@
+    body {
+      background-color: black;
+      color: ghostwhite;
+    }
+
+    img {
+      padding: 4px;
+      margin: 8px;
+      max-width: 90%;
+      width: auto;
+      height: auto;
+    }
+
+    #h1 {
+
+      color: red;
+      font-size: 25px;
+      text-align: center;
+    }
+
+    #h2 {
+      color: ghostwhite;
+      font-size: 20px;
+      text-align: center;
+
+    }
+
+    #h0 {
+      color: ghostwhite;
+      text-align: center;
+
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 0, 0, 0.0), rgba(0, 0, 0, 0))
+    }
+
+    #text {
+      text-align: center;
+      outline: none;
+    }
+
+    a {
+      color: whitesmoke;
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: ;
+      color: ghostwhite;
+      text-align: center;
+    }
